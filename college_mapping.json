@@ -1,0 +1,2877 @@
+{
+    "0": {
+        "code": "IIT-Bombay",
+        "program": "Aerospace Engineering",
+        "degree": "B.Tech"
+    },
+    "1": {
+        "code": "IIT-Bombay",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "2": {
+        "code": "IIT-Bombay",
+        "program": "Chemistry",
+        "degree": "BSc"
+    },
+    "3": {
+        "code": "IIT-Bombay",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "4": {
+        "code": "IIT-Bombay",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "5": {
+        "code": "IIT-Bombay",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "6": {
+        "code": "IIT-Bombay",
+        "program": "Electrical Engineering with M.Tech. in Communications and Signal Processing",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "7": {
+        "code": "IIT-Bombay",
+        "program": "Electrical Engineering with M.Tech. in Microelectronics",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "8": {
+        "code": "IIT-Bombay",
+        "program": "Energy Engineering with M.Tech. in Energy Systems Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "9": {
+        "code": "IIT-Bombay",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "10": {
+        "code": "IIT-Bombay",
+        "program": "Engineering Physics and M.Tech. with specialization in Nano Science",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "11": {
+        "code": "IIT-Bombay",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "12": {
+        "code": "IIT-Bombay",
+        "program": "Mechanical Engineering and M.Tech. in Computer Integrated Manufacturing",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "13": {
+        "code": "IIT-Bombay",
+        "program": "Metallurgical Engineering and Materials Science",
+        "degree": "B.Tech"
+    },
+    "14": {
+        "code": "IIT-Bombay",
+        "program": "Metallurgical Engineering and Materials Science with M.Tech. in Ceramics and Composites",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "15": {
+        "code": "IIT-Bombay",
+        "program": "Metallurgical Engineering and Materials Science with M.Tech. in Metallurgical Process Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "16": {
+        "code": "IIT-Delhi",
+        "program": "Biochemical Engineering and Biotechnology",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "17": {
+        "code": "IIT-Delhi",
+        "program": "Biotechnology and Biochemical Engineering",
+        "degree": "B.Tech"
+    },
+    "18": {
+        "code": "IIT-Delhi",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "19": {
+        "code": "IIT-Delhi",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "20": {
+        "code": "IIT-Delhi",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "21": {
+        "code": "IIT-Delhi",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "22": {
+        "code": "IIT-Delhi",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "23": {
+        "code": "IIT-Delhi",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "24": {
+        "code": "IIT-Delhi",
+        "program": "Electrical Engineering - Power and Automation",
+        "degree": "B.Tech"
+    },
+    "25": {
+        "code": "IIT-Delhi",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "26": {
+        "code": "IIT-Delhi",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech"
+    },
+    "27": {
+        "code": "IIT-Delhi",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "28": {
+        "code": "IIT-Delhi",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "29": {
+        "code": "IIT-Delhi",
+        "program": "Production and Industrial Engineering",
+        "degree": "B.Tech"
+    },
+    "30": {
+        "code": "IIT-Delhi",
+        "program": "Textile Technology",
+        "degree": "B.Tech"
+    },
+    "31": {
+        "code": "IIT-Kharagpur",
+        "program": "Aerospace Engineering",
+        "degree": "B.Tech"
+    },
+    "32": {
+        "code": "IIT-Kharagpur",
+        "program": "Aerospace Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "33": {
+        "code": "IIT-Kharagpur",
+        "program": "Agricultural and Food Engineering",
+        "degree": "B.Tech"
+    },
+    "34": {
+        "code": "IIT-Kharagpur",
+        "program": "Agricultural and Food Engineering with M.Tech. in any of the listed specializations",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "35": {
+        "code": "IIT-Kharagpur",
+        "program": "Applied Geology",
+        "degree": "Int MSc."
+    },
+    "36": {
+        "code": "IIT-Kharagpur",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "37": {
+        "code": "IIT-Kharagpur",
+        "program": "Biotechnology and Biochemical Engineering",
+        "degree": "B.Tech"
+    },
+    "38": {
+        "code": "IIT-Kharagpur",
+        "program": "Biotechnology and Biochemical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "39": {
+        "code": "IIT-Kharagpur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "40": {
+        "code": "IIT-Kharagpur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "41": {
+        "code": "IIT-Kharagpur",
+        "program": "Chemistry",
+        "degree": "Int MSc."
+    },
+    "42": {
+        "code": "IIT-Kharagpur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "43": {
+        "code": "IIT-Kharagpur",
+        "program": "Civil Engineering with any of the listed specialization",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "44": {
+        "code": "IIT-Kharagpur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "45": {
+        "code": "IIT-Kharagpur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "46": {
+        "code": "IIT-Kharagpur",
+        "program": "Economics",
+        "degree": "Int MSc."
+    },
+    "47": {
+        "code": "IIT-Kharagpur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "48": {
+        "code": "IIT-Kharagpur",
+        "program": "Electrical Engineering with M.Tech. in any of the listed specializations",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "49": {
+        "code": "IIT-Kharagpur",
+        "program": "Electronics and Electrical Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "50": {
+        "code": "IIT-Kharagpur",
+        "program": "Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "51": {
+        "code": "IIT-Kharagpur",
+        "program": "Exploration Geophysics",
+        "degree": "Int MSc."
+    },
+    "52": {
+        "code": "IIT-Kharagpur",
+        "program": "Industrial and Systems Engineering",
+        "degree": "B.Tech"
+    },
+    "53": {
+        "code": "IIT-Kharagpur",
+        "program": "Industrial and Systems Engineering with M.Tech. in Industrial and Systems Engineering and Management",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "54": {
+        "code": "IIT-Kharagpur",
+        "program": "Instrumentation Engineering",
+        "degree": "B.Tech"
+    },
+    "55": {
+        "code": "IIT-Kharagpur",
+        "program": "Manufacturing Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "56": {
+        "code": "IIT-Kharagpur",
+        "program": "Mining Engineering",
+        "degree": "B.Tech"
+    },
+    "57": {
+        "code": "IIT-Kharagpur",
+        "program": "Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "58": {
+        "code": "IIT-Kharagpur",
+        "program": "Mathematics and Computing",
+        "degree": "Int MSc."
+    },
+    "59": {
+        "code": "IIT-Kharagpur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "60": {
+        "code": "IIT-Kharagpur",
+        "program": "Mechanical Engineering with M.Tech. in any of the listed specializations",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "61": {
+        "code": "IIT-Kharagpur",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "62": {
+        "code": "IIT-Kharagpur",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "63": {
+        "code": "IIT-Kharagpur",
+        "program": "Mining Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "64": {
+        "code": "IIT-Kharagpur",
+        "program": "Mining Safety Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "65": {
+        "code": "IIT-Kharagpur",
+        "program": "Ocean Engineering and Naval Architecture",
+        "degree": "B.Tech"
+    },
+    "66": {
+        "code": "IIT-Kharagpur",
+        "program": "Ocean Engineering and Naval Architecture",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "67": {
+        "code": "IIT-Kharagpur",
+        "program": "Physics",
+        "degree": "Int MSc."
+    },
+    "68": {
+        "code": "IIT-Kharagpur",
+        "program": "Quality Engineering Design and Manufacturing",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "69": {
+        "code": "IIT-Kanpur",
+        "program": "Aerospace Engineering",
+        "degree": "B.Tech"
+    },
+    "70": {
+        "code": "IIT-Kanpur",
+        "program": "Biological Sciences and Bioengineering",
+        "degree": "B.Tech"
+    },
+    "71": {
+        "code": "IIT-Kanpur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "72": {
+        "code": "IIT-Kanpur",
+        "program": "Chemistry",
+        "degree": "BSc"
+    },
+    "73": {
+        "code": "IIT-Kanpur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "74": {
+        "code": "IIT-Kanpur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "75": {
+        "code": "IIT-Kanpur",
+        "program": "Earth Sciences",
+        "degree": "BSc"
+    },
+    "76": {
+        "code": "IIT-Kanpur",
+        "program": "Economics",
+        "degree": "BSc"
+    },
+    "77": {
+        "code": "IIT-Kanpur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "78": {
+        "code": "IIT-Kanpur",
+        "program": "Materials Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "79": {
+        "code": "IIT-Kanpur",
+        "program": "Mathematics and Scientific Computing",
+        "degree": "BSc"
+    },
+    "80": {
+        "code": "IIT-Kanpur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "81": {
+        "code": "IIT-Kanpur",
+        "program": "Physics",
+        "degree": "BSc"
+    },
+    "82": {
+        "code": "IIT-Madras",
+        "program": "Aerospace Engineering",
+        "degree": "B.Tech"
+    },
+    "83": {
+        "code": "IIT-Madras",
+        "program": "Aerospace Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "84": {
+        "code": "IIT-Madras",
+        "program": "Biological Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "85": {
+        "code": "IIT-Madras",
+        "program": "Biological Sciences",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "86": {
+        "code": "IIT-Madras",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "87": {
+        "code": "IIT-Madras",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "88": {
+        "code": "IIT-Madras",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "89": {
+        "code": "IIT-Madras",
+        "program": "Civil Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "90": {
+        "code": "IIT-Madras",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "91": {
+        "code": "IIT-Madras",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "92": {
+        "code": "IIT-Madras",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "93": {
+        "code": "IIT-Madras",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "94": {
+        "code": "IIT-Madras",
+        "program": "Engineering Design",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "95": {
+        "code": "IIT-Madras",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "96": {
+        "code": "IIT-Madras",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "97": {
+        "code": "IIT-Madras",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "98": {
+        "code": "IIT-Madras",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "99": {
+        "code": "IIT-Madras",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "100": {
+        "code": "IIT-Madras",
+        "program": "Naval Architecture and Ocean Engineering",
+        "degree": "B.Tech"
+    },
+    "101": {
+        "code": "IIT-Madras",
+        "program": "Naval Architecture and Ocean Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "102": {
+        "code": "IIT-Madras",
+        "program": "Physics",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "103": {
+        "code": "IIT-Roorkee",
+        "program": "Applied Mathematics",
+        "degree": "Int MSc."
+    },
+    "104": {
+        "code": "IIT-Roorkee",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "105": {
+        "code": "IIT-Roorkee",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "106": {
+        "code": "IIT-Roorkee",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "107": {
+        "code": "IIT-Roorkee",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "108": {
+        "code": "IIT-Roorkee",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "109": {
+        "code": "IIT-Roorkee",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "110": {
+        "code": "IIT-Roorkee",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "111": {
+        "code": "IIT-Roorkee",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "112": {
+        "code": "IIT-Roorkee",
+        "program": "Geological Technology",
+        "degree": "Int M.Tech"
+    },
+    "113": {
+        "code": "IIT-Roorkee",
+        "program": "Geophysical Technology",
+        "degree": "Int M.Tech"
+    },
+    "114": {
+        "code": "IIT-Roorkee",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "115": {
+        "code": "IIT-Roorkee",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "116": {
+        "code": "IIT-Roorkee",
+        "program": "Polymer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "117": {
+        "code": "IIT-Roorkee",
+        "program": "Production and Industrial Engineering",
+        "degree": "B.Tech"
+    },
+    "118": {
+        "code": "IIT-Guwahati",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "119": {
+        "code": "IIT-Guwahati",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "120": {
+        "code": "IIT-Guwahati",
+        "program": "Chemical Science and Technology",
+        "degree": "B.Tech"
+    },
+    "121": {
+        "code": "IIT-Guwahati",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "122": {
+        "code": "IIT-Guwahati",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "123": {
+        "code": "IIT-Guwahati",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "124": {
+        "code": "IIT-Guwahati",
+        "program": "Electronics and Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "125": {
+        "code": "IIT-Guwahati",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "126": {
+        "code": "IIT-Guwahati",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech"
+    },
+    "127": {
+        "code": "IIT-Guwahati",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "128": {
+        "code": "IIT-Indore",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "129": {
+        "code": "IIT-Indore",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "130": {
+        "code": "IIT-Indore",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "131": {
+        "code": "IIT-Indore",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "132": {
+        "code": "IIT-Indore",
+        "program": "Metallurgical Engineering and Materials Science",
+        "degree": "B.Tech"
+    },
+    "133": {
+        "code": "IIT-Hyderabad",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "134": {
+        "code": "IIT-Hyderabad",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "135": {
+        "code": "IIT-Hyderabad",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "136": {
+        "code": "IIT-Hyderabad",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "137": {
+        "code": "IIT-Hyderabad",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "138": {
+        "code": "IIT-Hyderabad",
+        "program": "Engineering Science",
+        "degree": "B.Tech"
+    },
+    "139": {
+        "code": "IIT-Hyderabad",
+        "program": "Materials Science and Metallurgical Engineering",
+        "degree": "B.Tech"
+    },
+    "140": {
+        "code": "IIT-Hyderabad",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "141": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "142": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Bioengineering with M.Tech in Biomedical Technology",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "143": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Ceramic Engineering",
+        "degree": "B.Tech"
+    },
+    "144": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Ceramic Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "145": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "146": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "147": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Civil Engineering with M.Tech. in Structural Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "148": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "149": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "150": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "151": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Electrical Engineering with M.Tech. in Power Electronics",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "152": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "153": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Engineering Physics",
+        "degree": "Int M.Tech"
+    },
+    "154": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Industrial Chemistry",
+        "degree": "Int M.Tech"
+    },
+    "155": {
+        "code": "IIT-Patna",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "156": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Materials Science and Technology",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "157": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Mathematics and Computing",
+        "degree": "Int M.Tech"
+    },
+    "158": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "159": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "160": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Metallurgical Engineering",
+        "degree": "B.Tech"
+    },
+    "161": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Metallurgical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "162": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Mining Engineering",
+        "degree": "B.Tech"
+    },
+    "163": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Mining Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "164": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Pharmaceutics",
+        "degree": "B.Pharm"
+    },
+    "165": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Pharmaceutics",
+        "degree": "B.Pharm + M.Pharm"
+    },
+    "166": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Applied Geology",
+        "degree": "Int M.Tech"
+    },
+    "167": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Applied Geophysics",
+        "degree": "Int M.Tech"
+    },
+    "168": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "169": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "170": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "171": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "172": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "173": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "174": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Electronics and Instrumentation Engineering",
+        "degree": "B.Tech"
+    },
+    "175": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "176": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Environmental Engineering",
+        "degree": "B.Tech"
+    },
+    "177": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Mathematics and Computing",
+        "degree": "Int M.Tech"
+    },
+    "178": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "179": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Mineral Engineering",
+        "degree": "B.Tech"
+    },
+    "180": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Mining Engineering",
+        "degree": "B.Tech"
+    },
+    "181": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Mining Machinery Engineering",
+        "degree": "B.Tech"
+    },
+    "182": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Petroleum Engineering",
+        "degree": "B.Tech"
+    },
+    "183": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "184": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Civil Engineering and M. Tech. in Structural Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "185": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Civil Engineering and M.Tech in Transportation Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "186": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "187": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "188": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "189": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "190": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Mechanical Engineering and M. Tech. in Mechanical System Design",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "191": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Mechanical Engineering and M. Tech. in Thermal Science & Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "192": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "193": {
+        "code": "IIT-Mandi",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "194": {
+        "code": "IIT-Mandi",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "195": {
+        "code": "IIT-Mandi",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "196": {
+        "code": "IIT-Mandi",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "197": {
+        "code": "IIT-Patna",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "198": {
+        "code": "IIT-Patna",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "199": {
+        "code": "IIT-Patna",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "200": {
+        "code": "IIT-Patna",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "201": {
+        "code": "IIT-Gandhinagar",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "202": {
+        "code": "IIT-Gandhinagar",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "203": {
+        "code": "IIT-Gandhinagar",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "204": {
+        "code": "IIT-Gandhinagar",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "205": {
+        "code": "IIT-Gandhinagar",
+        "program": "Materials Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "206": {
+        "code": "IIT-Gandhinagar",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "207": {
+        "code": "IIT-Ropar",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "208": {
+        "code": "IIT-Ropar",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "209": {
+        "code": "IIT-Ropar",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "210": {
+        "code": "IIT-Ropar",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "211": {
+        "code": "IIT-Ropar",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "212": {
+        "code": "IIT-Jodhpur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "213": {
+        "code": "IIT-Jodhpur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "214": {
+        "code": "IIT-Jodhpur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "215": {
+        "code": "IIT-Tirupati",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "216": {
+        "code": "IIT-Tirupati",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "217": {
+        "code": "IIT-Tirupati",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "218": {
+        "code": "IIT-Tirupati",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "219": {
+        "code": "IIT-Bhilai",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "220": {
+        "code": "IIT-Bhilai",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "221": {
+        "code": "IIT-Bhilai",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "222": {
+        "code": "IIT-Dharwad",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "223": {
+        "code": "IIT-Dharwad",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "224": {
+        "code": "IIT-Dharwad",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "225": {
+        "code": "IIT-Goa",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "226": {
+        "code": "IIT-Goa",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "227": {
+        "code": "IIT-Goa",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "228": {
+        "code": "IIT-Jammu",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "229": {
+        "code": "IIT-Jammu",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "230": {
+        "code": "IIT-Jammu",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "231": {
+        "code": "IIT-Palakkad",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "232": {
+        "code": "IIT-Palakkad",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "233": {
+        "code": "IIT-Palakkad",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "234": {
+        "code": "IIT-Palakkad",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "235": {
+        "code": "IIT-Bombay",
+        "program": "Economics",
+        "degree": "BSc"
+    },
+    "236": {
+        "code": "IIT-Roorkee",
+        "program": "Chemistry",
+        "degree": "Int MSc."
+    },
+    "237": {
+        "code": "IIT-Roorkee",
+        "program": "Physics",
+        "degree": "Int MSc."
+    },
+    "238": {
+        "code": "IIT-Hyderabad",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech"
+    },
+    "239": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Civil Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "240": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Engineering Physics",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "241": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Industrial Chemistry",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "242": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "243": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Pharmaceutical Engineering & Technology",
+        "degree": "B.Tech"
+    },
+    "244": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Pharmaceutical Engineering & Technology",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "245": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Civil Engineering and M.Tech. in Environmental Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "246": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "247": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Electrical Engineering and M.Tech Power Electronics and Drives",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "248": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Mechanical Engineering with M.Tech. in Manufacturing Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "249": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Metallurgical and Materials Engineering and M.Tech. in Materials Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "250": {
+        "code": "IIT-Ropar",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "251": {
+        "code": "IIT-Jammu",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "252": {
+        "code": "IIT-Bombay",
+        "program": "BS in Mathematics",
+        "degree": "BSc"
+    },
+    "253": {
+        "code": "IIT-Bombay",
+        "program": "Environmental Science and Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "254": {
+        "code": "IIT-Ropar",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "255": {
+        "code": "IIT-Jodhpur",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "256": {
+        "code": "IIT-Tirupati",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "257": {
+        "code": "IIT-Jammu",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "258": {
+        "code": "IIT-Bombay",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "259": {
+        "code": "IIT-Bombay",
+        "program": "Mechanical Engineering and M.Tech. in Computer IntegratedManufacturing",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "260": {
+        "code": "IIT-Bombay",
+        "program": "Metallurgical Engineering & Materials Science",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "261": {
+        "code": "IIT-Kharagpur",
+        "program": "Agricultural and Food Engineering with M.Tech. in any of the listedspecializations",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "262": {
+        "code": "IIT-Kharagpur",
+        "program": "Electronics and Electrical Communication Engineering with M.Tech. in anyof the listed specializations",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "263": {
+        "code": "IIT-Kharagpur",
+        "program": "Industrial and Systems Engineering with M.Tech. in Industrial and SystemsEngineering and Management",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "264": {
+        "code": "IIT-Kharagpur",
+        "program": "Manufacturing Science and Engineering with M.Tech. in Industrial andSystems Engineering and Management",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "265": {
+        "code": "IIT-Hyderabad",
+        "program": "Artificial Intelligence",
+        "degree": "B.Tech"
+    },
+    "266": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "267": {
+        "code": "IIT-(BHU) Varanasi",
+        "program": "Biochemical Engineering with M.Tech. in Biochemical Engineering andBiotechnology",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "268": {
+        "code": "IIT-Mandi",
+        "program": "Data Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "269": {
+        "code": "IIT-Bhubaneswar",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "270": {
+        "code": "IIT-Mandi",
+        "program": "Bio Engineering",
+        "degree": "B.Tech + M.Tech (IDD)"
+    },
+    "271": {
+        "code": "IIT-Mandi",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "272": {
+        "code": "IIT-Patna",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "273": {
+        "code": "IIT-Patna",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "274": {
+        "code": "IIT-Ropar",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech"
+    },
+    "275": {
+        "code": "IIT-Jodhpur",
+        "program": "Bio Engineering",
+        "degree": "B.Tech"
+    },
+    "276": {
+        "code": "IIT-Goa",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech"
+    },
+    "277": {
+        "code": "IIT-Jammu",
+        "program": "Materials Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "278": {
+        "code": "IIT-Delhi",
+        "program": "Electrical Engineering in Power and Automation",
+        "degree": "B.Tech"
+    },
+    "279": {
+        "code": "IIT-Delhi",
+        "program": "Engineering and Computational Mechanics",
+        "degree": "B.Tech"
+    },
+    "280": {
+        "code": "IIT-Delhi",
+        "program": "Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "281": {
+        "code": "IIT-Hyderabad",
+        "program": "Biomedical Engineering",
+        "degree": "B.Tech"
+    },
+    "282": {
+        "code": "IIT-Jodhpur",
+        "program": "Artificial Intelligence and Data Science",
+        "degree": "B.Tech"
+    },
+    "283": {
+        "code": "IIT-Jodhpur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "284": {
+        "code": "IIT-Jodhpur",
+        "program": "Civil and Infrastructure Engineering",
+        "degree": "B.Tech"
+    },
+    "285": {
+        "code": "IIT-Jodhpur",
+        "program": "Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "286": {
+        "code": "IIT-(ISM) Dhanbad",
+        "program": "Mineral and Metallurgical Engineering",
+        "degree": "B.Tech"
+    },
+    "287": {
+        "code": "IIT-Guwahati",
+        "program": "Biosciences and Bioengineering",
+        "degree": "B.Tech"
+    },
+    "288": {
+        "code": "IIT-Bhilai",
+        "program": "Data Science and Artificial Intelligence",
+        "degree": "B.Tech"
+    },
+    "289": {
+        "code": "IIT-Delhi",
+        "program": "Energy Engineering",
+        "degree": "B.Tech"
+    },
+    "290": {
+        "code": "IIT-Kharagpur",
+        "program": "Applied Geology",
+        "degree": "BSc"
+    },
+    "291": {
+        "code": "IIT-Kharagpur",
+        "program": "Chemistry",
+        "degree": "BSc"
+    },
+    "292": {
+        "code": "IIT-Kharagpur",
+        "program": "Economics",
+        "degree": "BSc"
+    },
+    "293": {
+        "code": "IIT-Kharagpur",
+        "program": "Exploration Geophysics",
+        "degree": "BSc"
+    },
+    "294": {
+        "code": "IIT-Kharagpur",
+        "program": "Mathematics and Computing",
+        "degree": "BSc"
+    },
+    "295": {
+        "code": "IIT-Kharagpur",
+        "program": "Physics",
+        "degree": "BSc"
+    },
+    "296": {
+        "code": "IIT-Kanpur",
+        "program": "Statistics and Data Science",
+        "degree": "BSc"
+    },
+    "297": {
+        "code": "IIT-Madras",
+        "program": "Biological Sciences",
+        "degree": "BS + MS (IDD)"
+    },
+    "298": {
+        "code": "IIT-Madras",
+        "program": "Physics",
+        "degree": "BS + MS (IDD)"
+    },
+    "299": {
+        "code": "IIT-Roorkee",
+        "program": "Biosciences and Bioengineering",
+        "degree": "B.Tech"
+    },
+    "300": {
+        "code": "IIT-Roorkee",
+        "program": "Chemical Sciences",
+        "degree": "BS + MS (IDD)"
+    },
+    "301": {
+        "code": "IIT-Roorkee",
+        "program": "Economics",
+        "degree": "BS + MS (IDD)"
+    },
+    "302": {
+        "code": "IIT-Roorkee",
+        "program": "Mathematics & Computing",
+        "degree": "BS + MS (IDD)"
+    },
+    "303": {
+        "code": "IIT-Roorkee",
+        "program": "Physics",
+        "degree": "BS + MS (IDD)"
+    },
+    "304": {
+        "code": "IIT-Guwahati",
+        "program": "Data Science and Artificial Intelligence",
+        "degree": "B.Tech"
+    },
+    "305": {
+        "code": "IIT-Hyderabad",
+        "program": "Biotechnology and Bioinformatics",
+        "degree": "B.Tech"
+    },
+    "306": {
+        "code": "IIT-Hyderabad",
+        "program": "Computational Engineering",
+        "degree": "B.Tech"
+    },
+    "307": {
+        "code": "IIT-Hyderabad",
+        "program": "Industrial Chemistry",
+        "degree": "B.Tech"
+    },
+    "308": {
+        "code": "IIT-Patna",
+        "program": "Artificial Intelligence and Data Science",
+        "degree": "B.Tech"
+    },
+    "309": {
+        "code": "IIT-Patna",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "310": {
+        "code": "IIT-Patna",
+        "program": "Mathematics and Computing",
+        "degree": "BSc"
+    },
+    "311": {
+        "code": "IIT-Gandhinagar",
+        "program": "Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "312": {
+        "code": "IIT-Dharwad",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "313": {
+        "code": "NIT-Warangal",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "314": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Instrumentation and Control Engineering",
+        "degree": "B.Tech"
+    },
+    "315": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "316": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "317": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Production Engineering",
+        "degree": "B.Tech"
+    },
+    "318": {
+        "code": "NIT-Uttarakhand",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "319": {
+        "code": "NIT-Uttarakhand",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "320": {
+        "code": "NIT-Uttarakhand",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "321": {
+        "code": "NIT-Uttarakhand",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "322": {
+        "code": "NIT-Uttarakhand",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "323": {
+        "code": "NIT-Warangal",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "324": {
+        "code": "NIT-Warangal",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "325": {
+        "code": "NIT-Warangal",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "326": {
+        "code": "NIT-Warangal",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "327": {
+        "code": "NIT-Warangal",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "328": {
+        "code": "NIT-Warangal",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "329": {
+        "code": "NIT-Warangal",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "330": {
+        "code": "NIT-Surat",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "331": {
+        "code": "NIT-Surat",
+        "program": "Chemistry",
+        "degree": "Int Msc."
+    },
+    "332": {
+        "code": "NIT-Surat",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "333": {
+        "code": "NIT-Surat",
+        "program": "Computer Engineering",
+        "degree": "B.Tech"
+    },
+    "334": {
+        "code": "NIT-Surat",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "335": {
+        "code": "NIT-Surat",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "336": {
+        "code": "NIT-Surat",
+        "program": "Mathematics",
+        "degree": "Int Msc."
+    },
+    "337": {
+        "code": "NIT-Surat",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "338": {
+        "code": "NIT-Surat",
+        "program": "Physics",
+        "degree": "Int Msc."
+    },
+    "339": {
+        "code": "NIT-Nagpur",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "340": {
+        "code": "NIT-Nagpur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "341": {
+        "code": "NIT-Nagpur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "342": {
+        "code": "NIT-Nagpur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "343": {
+        "code": "NIT-Nagpur",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "344": {
+        "code": "NIT-Nagpur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "345": {
+        "code": "NIT-Nagpur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "346": {
+        "code": "NIT-Nagpur",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "347": {
+        "code": "NIT-Nagpur",
+        "program": "Mining Engineering",
+        "degree": "B.Tech"
+    },
+    "348": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "349": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "350": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "351": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "352": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "353": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "354": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "355": {
+        "code": "NIT-Andhra-Pradesh",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "356": {
+        "code": "NIT-Jalandhar",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "357": {
+        "code": "NIT-Jalandhar",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "358": {
+        "code": "NIT-Jalandhar",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "359": {
+        "code": "NIT-Jalandhar",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "360": {
+        "code": "NIT-Jalandhar",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "361": {
+        "code": "NIT-Jaipur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "362": {
+        "code": "NIT-Jalandhar",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "363": {
+        "code": "NIT-Jalandhar",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "364": {
+        "code": "NIT-Jalandhar",
+        "program": "Textile Technology",
+        "degree": "B.Tech"
+    },
+    "365": {
+        "code": "NIT-Jalandhar",
+        "program": "Information Technology",
+        "degree": "B.Tech"
+    },
+    "366": {
+        "code": "NIT-Jalandhar",
+        "program": "Instrumentation and Control Engineering",
+        "degree": "B.Tech"
+    },
+    "367": {
+        "code": "NIT-Jalandhar",
+        "program": "Industrial and Production Engineering",
+        "degree": "B.Tech"
+    },
+    "368": {
+        "code": "NIT-Jaipur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "369": {
+        "code": "NIT-Jaipur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "370": {
+        "code": "NIT-Jaipur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "371": {
+        "code": "NIT-Jaipur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "372": {
+        "code": "NIT-Jaipur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "373": {
+        "code": "NIT-Jaipur",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "374": {
+        "code": "NIT-Jaipur",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "375": {
+        "code": "NIT-Bhopal",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "376": {
+        "code": "NIT-Bhopal",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "377": {
+        "code": "NIT-Bhopal",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "378": {
+        "code": "NIT-Bhopal",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "379": {
+        "code": "NIT-Bhopal",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "380": {
+        "code": "NIT-Bhopal",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "381": {
+        "code": "NIT-Bhopal",
+        "program": "Materials Science and Metallurgical Engineering",
+        "degree": "B.Tech"
+    },
+    "382": {
+        "code": "NIT-Bhopal",
+        "program": "Planning",
+        "degree": "B.Plan"
+    },
+    "383": {
+        "code": "NIT-Bhopal",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "384": {
+        "code": "NIT-Allahabad",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "385": {
+        "code": "NIT-Allahabad",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "386": {
+        "code": "NIT-Calicut",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "387": {
+        "code": "NIT-Allahabad",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "388": {
+        "code": "NIT-Allahabad",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "389": {
+        "code": "NIT-Allahabad",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "390": {
+        "code": "NIT-Allahabad",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "391": {
+        "code": "NIT-Allahabad",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "392": {
+        "code": "NIT-Allahabad",
+        "program": "Production and Industrial Engineering",
+        "degree": "B.Tech"
+    },
+    "393": {
+        "code": "NIT-Allahabad",
+        "program": "Information Technology",
+        "degree": "B.Tech"
+    },
+    "394": {
+        "code": "NIT-Agartala",
+        "program": "Biotechnology and Biochemical Engineering",
+        "degree": "B.Tech"
+    },
+    "395": {
+        "code": "NIT-Agartala",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "396": {
+        "code": "NIT-Agartala",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "397": {
+        "code": "NIT-Agartala",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "398": {
+        "code": "NIT-Agartala",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "399": {
+        "code": "NIT-Agartala",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "400": {
+        "code": "NIT-Agartala",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "401": {
+        "code": "NIT-Agartala",
+        "program": "Electronics and Instrumentation Engineering",
+        "degree": "B.Tech"
+    },
+    "402": {
+        "code": "NIT-Agartala",
+        "program": "Production Engineering",
+        "degree": "B.Tech"
+    },
+    "403": {
+        "code": "NIT-Agartala",
+        "program": "Engineering Physics",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "404": {
+        "code": "NIT-Agartala",
+        "program": "Mathematics and Computing",
+        "degree": "Int M.Tech"
+    },
+    "405": {
+        "code": "NIT-Agartala",
+        "program": "Physics",
+        "degree": "BSc + MSc (IDD)"
+    },
+    "406": {
+        "code": "NIT-Agartala",
+        "program": "Chemistry",
+        "degree": "BSc + MSc (IDD)"
+    },
+    "407": {
+        "code": "NIT-Calicut",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "408": {
+        "code": "NIT-Calicut",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "409": {
+        "code": "NIT-Calicut",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "410": {
+        "code": "NIT-Calicut",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "411": {
+        "code": "NIT-Calicut",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "412": {
+        "code": "NIT-Calicut",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "413": {
+        "code": "NIT-Calicut",
+        "program": "Materials Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "414": {
+        "code": "NIT-Calicut",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "415": {
+        "code": "NIT-Calicut",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "416": {
+        "code": "NIT-Calicut",
+        "program": "Production Engineering",
+        "degree": "B.Tech"
+    },
+    "417": {
+        "code": "NIT-Delhi",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "418": {
+        "code": "NIT-Delhi",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "419": {
+        "code": "NIT-Delhi",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "420": {
+        "code": "NIT-Durgapur",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "421": {
+        "code": "NIT-Durgapur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "422": {
+        "code": "NIT-Durgapur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "423": {
+        "code": "NIT-Durgapur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "424": {
+        "code": "NIT-Durgapur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "425": {
+        "code": "NIT-Durgapur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "426": {
+        "code": "NIT-Durgapur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "427": {
+        "code": "NIT-Durgapur",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "428": {
+        "code": "NIT-Durgapur",
+        "program": "Chemical Engineering",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "429": {
+        "code": "NIT-Durgapur",
+        "program": "Biotechnology",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "430": {
+        "code": "NIT-Durgapur",
+        "program": "Chemistry",
+        "degree": "Int Msc."
+    },
+    "431": {
+        "code": "NIT-Goa",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "432": {
+        "code": "NIT-Goa",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "433": {
+        "code": "NIT-Goa",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "434": {
+        "code": "NIT-Goa",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "435": {
+        "code": "NIT-Goa",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "436": {
+        "code": "NIT-Hamirpur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "437": {
+        "code": "NIT-Hamirpur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "438": {
+        "code": "NIT-Hamirpur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "439": {
+        "code": "NIT-Hamirpur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "440": {
+        "code": "NIT-Hamirpur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "441": {
+        "code": "NIT-Hamirpur",
+        "program": "Materials Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "442": {
+        "code": "NIT-Hamirpur",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "443": {
+        "code": "NIT-Hamirpur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "444": {
+        "code": "NIT-Hamirpur",
+        "program": "Computer Science and Engineering",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "445": {
+        "code": "NIT-Hamirpur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "446": {
+        "code": "NIT-Meghalaya",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "447": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "448": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "449": {
+        "code": "NIT-Patna",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "450": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "451": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "452": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "453": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "454": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Mining Engineering",
+        "degree": "B.Tech"
+    },
+    "455": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "456": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Information Technology",
+        "degree": "B.Tech"
+    },
+    "457": {
+        "code": "NIT-Meghalaya",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "458": {
+        "code": "NIT-Meghalaya",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "459": {
+        "code": "NIT-Meghalaya",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "460": {
+        "code": "NIT-Meghalaya",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "461": {
+        "code": "NIT-Nagaland",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "462": {
+        "code": "NIT-Nagaland",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "463": {
+        "code": "NIT-Nagaland",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "464": {
+        "code": "NIT-Nagaland",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "465": {
+        "code": "NIT-Nagaland",
+        "program": "Electronics and Instrumentation Engineering",
+        "degree": "B.Tech"
+    },
+    "466": {
+        "code": "NIT-Nagaland",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "467": {
+        "code": "NIT-Patna",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "468": {
+        "code": "NIT-Patna",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "469": {
+        "code": "NIT-Patna",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "470": {
+        "code": "NIT-Patna",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "471": {
+        "code": "NIT-Patna",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "472": {
+        "code": "NIT-Patna",
+        "program": "Chemistry",
+        "degree": "Int Msc."
+    },
+    "473": {
+        "code": "NIT-Patna",
+        "program": "Physics",
+        "degree": "Int Msc."
+    },
+    "474": {
+        "code": "NIT-Patna",
+        "program": "Mathematics",
+        "degree": "Int Msc."
+    },
+    "475": {
+        "code": "NIT-Puducherry",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "476": {
+        "code": "NIT-Puducherry",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "477": {
+        "code": "NIT-Puducherry",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "478": {
+        "code": "NIT-Puducherry",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "479": {
+        "code": "NIT-Puducherry",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "480": {
+        "code": "NIT-Raipur",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "481": {
+        "code": "NIT-Raipur",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "482": {
+        "code": "NIT-Raipur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "483": {
+        "code": "NIT-Raipur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "484": {
+        "code": "NIT-Raipur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "485": {
+        "code": "NIT-Raipur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "486": {
+        "code": "NIT-Raipur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "487": {
+        "code": "NIT-Raipur",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "488": {
+        "code": "NIT-Raipur",
+        "program": "Mining Engineering",
+        "degree": "B.Tech"
+    },
+    "489": {
+        "code": "NIT-Raipur",
+        "program": "Information Technology",
+        "degree": "B.Tech"
+    },
+    "490": {
+        "code": "NIT-Raipur",
+        "program": "Bio Medical Engineering",
+        "degree": "B.Tech"
+    },
+    "491": {
+        "code": "NIT-Raipur",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "492": {
+        "code": "NIT-Sikkim",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "493": {
+        "code": "NIT-Sikkim",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "494": {
+        "code": "NIT-Sikkim",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "495": {
+        "code": "NIT-Sikkim",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "496": {
+        "code": "NIT-Sikkim",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "497": {
+        "code": "NIT-Arunachal-Pradesh",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "498": {
+        "code": "NIT-Arunachal-Pradesh",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "499": {
+        "code": "NIT-Arunachal-Pradesh",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "500": {
+        "code": "NIT-Arunachal-Pradesh",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "501": {
+        "code": "NIT-Arunachal-Pradesh",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "502": {
+        "code": "NIT-Jamshedpur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "503": {
+        "code": "NIT-Jamshedpur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "504": {
+        "code": "NIT-Jamshedpur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "505": {
+        "code": "NIT-Jamshedpur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "506": {
+        "code": "NIT-Jamshedpur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "507": {
+        "code": "NIT-Jamshedpur",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "508": {
+        "code": "NIT-Jamshedpur",
+        "program": "Production and Industrial Engineering",
+        "degree": "B.Tech"
+    },
+    "509": {
+        "code": "NIT-Kurukshetra",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "510": {
+        "code": "NIT-Kurukshetra",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "511": {
+        "code": "NIT-Kurukshetra",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "512": {
+        "code": "NIT-Kurukshetra",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "513": {
+        "code": "NIT-Kurukshetra",
+        "program": "Production and Industrial Engineering",
+        "degree": "B.Tech"
+    },
+    "514": {
+        "code": "NIT-Kurukshetra",
+        "program": "Information Technology",
+        "degree": "B.Tech"
+    },
+    "515": {
+        "code": "NIT-Kurukshetra",
+        "program": "Computer Engineering",
+        "degree": "B.Tech"
+    },
+    "516": {
+        "code": "NIT-Manipur",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "517": {
+        "code": "NIT-Manipur",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "518": {
+        "code": "NIT-Manipur",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "519": {
+        "code": "NIT-Manipur",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "520": {
+        "code": "NIT-Manipur",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "521": {
+        "code": "NIT-Mizoram",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "522": {
+        "code": "NIT-Mizoram",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "523": {
+        "code": "NIT-Mizoram",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "524": {
+        "code": "NIT-Mizoram",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "525": {
+        "code": "NIT-Mizoram",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "526": {
+        "code": "NIT-Rourkela",
+        "program": "Bio Technology",
+        "degree": "B.Tech"
+    },
+    "527": {
+        "code": "NIT-Rourkela",
+        "program": "Ceramic Engineering",
+        "degree": "B.Tech"
+    },
+    "528": {
+        "code": "NIT-Rourkela",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "529": {
+        "code": "NIT-Rourkela",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "530": {
+        "code": "NIT-Rourkela",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "531": {
+        "code": "NIT-Rourkela",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "532": {
+        "code": "NIT-Rourkela",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "533": {
+        "code": "NIT-Rourkela",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "534": {
+        "code": "NIT-Rourkela",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "535": {
+        "code": "NIT-Rourkela",
+        "program": "Mining Engineering",
+        "degree": "B.Tech"
+    },
+    "536": {
+        "code": "NIT-Rourkela",
+        "program": "Electronics and Instrumentation Engineering",
+        "degree": "B.Tech"
+    },
+    "537": {
+        "code": "NIT-Rourkela",
+        "program": "Bio Medical Engineering",
+        "degree": "B.Tech"
+    },
+    "538": {
+        "code": "NIT-Rourkela",
+        "program": "Industrial Design",
+        "degree": "B.Tech"
+    },
+    "539": {
+        "code": "NIT-Rourkela",
+        "program": "Food Process Engineering",
+        "degree": "B.Tech"
+    },
+    "540": {
+        "code": "NIT-Rourkela",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "541": {
+        "code": "NIT-Rourkela",
+        "program": "Chemical Engineering",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "542": {
+        "code": "NIT-Rourkela",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "543": {
+        "code": "NIT-Rourkela",
+        "program": "Mining Engineering",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "544": {
+        "code": "NIT-Rourkela",
+        "program": "Ceramic Engineering and M.Tech Industrial Ceramic",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "545": {
+        "code": "NIT-Rourkela",
+        "program": "Chemistry",
+        "degree": "Int Msc."
+    },
+    "546": {
+        "code": "NIT-Rourkela",
+        "program": "Physics",
+        "degree": "Int Msc."
+    },
+    "547": {
+        "code": "NIT-Rourkela",
+        "program": "Mathematics",
+        "degree": "Int Msc."
+    },
+    "548": {
+        "code": "NIT-Rourkela",
+        "program": "Life Science",
+        "degree": "Int Msc."
+    },
+    "549": {
+        "code": "NIT-Silchar",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "550": {
+        "code": "NIT-Silchar",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "551": {
+        "code": "NIT-Silchar",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "552": {
+        "code": "NIT-Silchar",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "553": {
+        "code": "NIT-Silchar",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "554": {
+        "code": "NIT-Silchar",
+        "program": "Electronics and Instrumentation Engineering",
+        "degree": "B.Tech"
+    },
+    "555": {
+        "code": "NIT-Srinagar",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "556": {
+        "code": "NIT-Srinagar",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "557": {
+        "code": "NIT-Srinagar",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "558": {
+        "code": "NIT-Srinagar",
+        "program": "Electrical Engineering",
+        "degree": "B.Tech"
+    },
+    "559": {
+        "code": "NIT-Srinagar",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "560": {
+        "code": "NIT-Srinagar",
+        "program": "Mechanical Engineering",
+        "degree": "B.Tech"
+    },
+    "561": {
+        "code": "NIT-Srinagar",
+        "program": "Metallurgical and Materials Engineering",
+        "degree": "B.Tech"
+    },
+    "562": {
+        "code": "NIT-Srinagar",
+        "program": "Information Technology",
+        "degree": "B.Tech"
+    },
+    "563": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Chemical Engineering",
+        "degree": "B.Tech"
+    },
+    "564": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Civil Engineering",
+        "degree": "B.Tech"
+    },
+    "565": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Computer Science and Engineering",
+        "degree": "B.Tech"
+    },
+    "566": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Electronics and Communication Engineering",
+        "degree": "B.Tech"
+    },
+    "567": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Electrical and Electronics Engineering",
+        "degree": "B.Tech"
+    },
+    "568": {
+        "code": "NIT-Tiruchirappalli",
+        "program": "Architecture",
+        "degree": "B.Arch"
+    },
+    "569": {
+        "code": "NIT-Agartala",
+        "program": "Mathematics & Computing",
+        "degree": "BSc + MSc (IDD)"
+    },
+    "570": {
+        "code": "NIT-Hamirpur",
+        "program": "Engineering Physics",
+        "degree": "B.Tech"
+    },
+    "571": {
+        "code": "NIT-Hamirpur",
+        "program": "Mathematics and Computing",
+        "degree": "B.Tech"
+    },
+    "572": {
+        "code": "NIT-Bhopal",
+        "program": "Mathematics and Data Science",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "573": {
+        "code": "NIT-Agartala",
+        "program": "Computational Mathematics",
+        "degree": "Btech + M.Tech (IDD)"
+    },
+    "574": {
+        "code": "NIT-Karnataka-Surathkal",
+        "program": "Artificial Intelligence",
+        "degree": "B.Tech"
+    }
+}
