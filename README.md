@@ -11,14 +11,6 @@ Difficulty for students to predict college and course options based on JEE score
 ### 📈 Rsult for Choosing Top 1 College
 ![Predicted Result](https://github.com/Nisar8856/JEE-College-Assistant-Using-ML/issues/1)
 
-### 📈 Rsult for Choosing Top 1 College
-![Predicted Result](https://jmp.sh/amUJyltJ)
-
-### 📈 Rsult for Top 3 Colleges
-![Predicted Result](https://jmp.sh/mG2gQKdW)
-
-### 📈 Rsult for Top 3 Colleges
-![Predicted Result](https://jmp.sh/Giu1wjYR)
 
 ## Technologies Used 🌐
 
