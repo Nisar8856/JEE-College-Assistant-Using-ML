@@ -9,7 +9,7 @@ Difficulty for students to predict college and course options based on JEE score
 ## Screenshots 🖼️
 
 ### 📈 Rsult for Choosing Top 1 College
-![Predicted Result](https://github.com/Nisar8856/JEE-College-Assistant-Using-ML/issues/1)
+![Predicted Result](https://github.com/user-attach)
 
 
 ## Technologies Used 🌐
