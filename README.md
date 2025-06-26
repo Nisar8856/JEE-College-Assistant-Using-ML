@@ -63,7 +63,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact Us 📧
 
-If you have any questions, need further assistance or suggestions, please feel free to contact us at [email]( nisarns8856@gmail.com).
+If you have any questions, need further assistance or suggestions, please feel free to contact us at [email](nisarns8856@gmail.com).
 #### OR
 Reach out to us using the [Contact Form](https://forms.gle/cEcJ9uEiz1XVbsuw8)
 
