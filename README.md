@@ -9,7 +9,7 @@ Difficulty for students to predict college and course options based on JEE score
 ## Screenshots 🖼️
 
 ### 📈 Rsult for Choosing Top 1 College
-![Predicted Result](https://github.com/user-attach)
+![Predicted Result]![Image](https://github.com/user-attachments/assets/52eaae4e-470f-485b-bb65-dc7fee9c7673)
 
 
 ## Technologies Used 🌐
