@@ -18,8 +18,6 @@ Difficulty for students to predict college and course options based on JEE score
 ![Predicted Result](https://github.com/user-attachments/assets/fc275af8-4998-412f-bb03-3eee81da946c)
 
 
-
-
 ## Technologies Used 🌐
 
 - Frontend: HTML, CSS, JavaScript, React (optional)
